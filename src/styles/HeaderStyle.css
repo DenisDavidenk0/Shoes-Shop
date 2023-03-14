@@ -1,0 +1,13 @@
+.navLink {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.openSansStyle {
+  font-family: "Open Sans", sans-serif;
+}
+.blockHeader {
+  width: 100%;
+  height: 50px;
+}

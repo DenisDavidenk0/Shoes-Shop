@@ -1,0 +1,9 @@
+.bgColorCard {
+  background-color: #3c3c3c;
+}
+.containerProduct {
+  margin: 70px 10px;
+}
+.cardHoverNone:hover {
+  text-decoration: none;
+}

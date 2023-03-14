@@ -1,0 +1,65 @@
+.singleProductCard {
+  height: 80vh;
+  width: 100vw;
+  margin: 20px 40px;
+  background-color: #3c3c3c;
+  border-radius: 20px;
+}
+
+.titleSingleCard {
+  font-family: "Open Sans", sans-serif;
+  font-size: 42px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.descriptionCard {
+  margin-top: 70px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24.51px;
+  color: #ffffff;
+}
+
+.containerBorderSIze {
+  border: 1px solid #ffffffff;
+  padding: 3px 8px;
+  border-radius: 12px;
+  color: #ffffffff;
+  font-weight: 400;
+  margin-right: 10px;
+}
+
+.containerSizes {
+  display: flex;
+
+  flex-wrap: wrap;
+}
+.singleBorderSize {
+  border-radius: 8px;
+  background-color: #3c3c3c;
+  border: 1px solid #ffff;
+  color: #ffff;
+  margin: 5px 7px 5px 0px;
+}
+
+.containerSizes {
+  width: 341px;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.buttonBuySingleProduct {
+  height: 45px;
+  width: 60px;
+  padding: 5x 20px;
+  border-radius: 10px;
+  background-color: #adff00;
+  font-size: 17px;
+}
+
+.buttonGoToCart {
+  background-color: transparent;
+  color: #ffff;
+  border: none;
+}
